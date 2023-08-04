@@ -1,0 +1,68 @@
+/*selector {
+	property:  value;
+}*/
+body {
+margin: 0px;}
+
+
+h1{ 
+	color: red;
+	background: black;
+	text-align: center;
+	border: 4px solid red;
+	cursor: pointer;
+} 
+
+p {
+	color: red;
+	background: black;
+	/*text-align: center;*/
+
+}
+body { background: black; }
+li {
+color: red;
+display: inline-block;
+}
+div {
+color: red;
+}
+h3 {
+color: white;}
+b { color: white;
+text-align: center; 
+}
+ul {color: white;
+	/*list-style: none;*/
+} 
+#div1 {
+color: white;}
+/*.webtext {
+display: inline-block;}*/
+  /*class="" to make sure a group of things have the same style
+
+
+text-align: right;}*/
+/** is to apply changes into all elements*/
+/*element element is to apply changes only in elements from the first mentioned element*/
+/*elemet > element */
+/*element + element h2 + p sect any p element that is exactly after h2 element */
+/*:hover 
+:last-child
+:first-child*/
+/*specificity
+importance
+source order*/
+p {
+text-decoration: line-through;}
+footer { color: red;
+text-align: center;}
+.boxmodel {
+border: 5px solid red;
+display: inline-block;
+padding: 15px 30px 15px 30px;
+vertical-align: text-top;
+}
+img {
+margin: center;}
+
